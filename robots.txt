@@ -1,0 +1,7 @@
+
+User-agent: baiduspider
+Disallow: /
+User-agent: *
+Disallow: 
+Disallow: /js/
+Disallow: /contact.html
